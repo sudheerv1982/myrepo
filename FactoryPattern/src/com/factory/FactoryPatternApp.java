@@ -14,5 +14,6 @@ public class FactoryPatternApp {
 		
 		Shape obj = sf.getShape("RECTANGLE");
 		obj.draw();
+		System.out.println("Hello Git");
 	}
 }
